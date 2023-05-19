@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 267: invalid syntax
+    while (fact_count_push = None)
+                            ^
+    
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Fri May 19 15:03:36 2023
