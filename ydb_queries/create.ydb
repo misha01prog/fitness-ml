@@ -1,0 +1,24 @@
+CREATE TABLE `users`
+(
+    `id` String,
+    `age` Uint32,
+    `sex` Uint32,
+    `height` Uint32,
+    `weight` Uint32,
+    `fat` Uint32,
+    `sleep` Uint32,
+    `class` Uint32,
+    PRIMARY KEY (`id`)
+);
+
+INSERT INTO `users`
+(
+    `id`,
+    `age`,
+    `sex`,
+    `height`,
+    `weight`,
+    `fat`,
+    `sleep`,
+    `class`
+) VALUES ('test1', 1, 1, 1, 1, 1, 1, 1)
